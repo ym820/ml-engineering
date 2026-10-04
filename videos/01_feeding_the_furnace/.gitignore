@@ -1,0 +1,6 @@
+media/
+*.mp4
+vo/
+voice_samples/
+__pycache__/
+.DS_Store
