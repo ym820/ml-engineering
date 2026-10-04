@@ -139,3 +139,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# manim renders and voiceover cache
+videos/**/media/
+videos/**/vo/
+videos/**/*.mp4
+videos/**/__pycache__/
