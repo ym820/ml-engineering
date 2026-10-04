@@ -139,3 +139,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# manim video renders and generated voiceover
+videos/**/media/
+videos/**/vo/
+videos/**/*.mp4
